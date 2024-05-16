@@ -1,7 +1,5 @@
-# InnovateX AI VoiceChat Solution
-
-Made by: Salim Hamzaoui and Deffo Ngankam Steve
-
+# Tesseract: Empowering Accessibility in Four Dimensions
+InnovateX AI VoiceChat Solution
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -15,7 +13,9 @@ Made by: Salim Hamzaoui and Deffo Ngankam Steve
 
 ## Introduction
 
-Welcome to the InnovateX AI VoiceChat Solution README! This project was developed as a part of the InnovateX hackathon at 42 Abu Dhabi and organized by the UAE Ministry of Interior with the aim of enhancing the accessibility of their website for people of determination and senior citizens. Our solution utilizes cutting-edge technologies to provide a seamless voice-based interaction experience for users navigating the Ministry of Interior's website.
+Welcome to Tesseract, your gateway to a new dimension of accessibility! Inspired by the four-dimensional cube, our web application aims to revolutionize accessibility for people of determination and senior citizens navigating the UAE Ministry of Interior's website. By harnessing the power of cutting-edge technologies, Tesseract provides an intuitive voice-based interaction experience, guiding users seamlessly through the website's services and applications.
+
+Made by: Salim Hamzaoui and Deffo Ngankam Steve at 42 Abu Dhabi
 
 ---
 
