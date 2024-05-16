@@ -126,7 +126,7 @@ Given additional time and resources, here are areas we would focus on to further
 
 To install and run the InnovateX AI VoiceChat Solution, follow these steps:
 
-Clone the repository: `git clone https://github.com/shamzaou/ai_voicebot.git`
+Clone the repository: `https://github.com/shamzaou/hackathon_moi_tesseract.git`
 
 ## Nuxt 3 Minimal Starter
 
