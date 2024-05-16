@@ -6,6 +6,7 @@ InnovateX AI VoiceChat Solution
 - [Problem and Solution](#problem-and-solution)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Future Improvements](#future-improvements)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -108,6 +109,17 @@ Tailwind CSS offers a utility-first approach to styling, allowing us to rapidly 
 - **Complexity vs. Simplicity**: While our solution introduces advanced voice-based interactions, we aimed to maintain simplicity in user experience, ensuring accessibility for all skill levels.
 - **Security and Stability**: Custom-tuning ChatGPT 3.5 Turbo was crucial for ensuring security and stability, balancing the need for AI-driven interactions with user safety.
 - **Resource Constraints**: Considering time constraints and resource availability, we focused on essential features and optimizations, prioritizing usability and reliability.
+
+---
+
+## Future Improvements
+
+Given additional time and resources, here are areas we would focus on to further enhance Tesseract:
+
+- **Multilingual Support**: Expand language capabilities to cater to a broader audience, ensuring inclusivity for diverse communities.
+- **Personalization**: Implement user profiles and preferences to tailor the experience based on individual needs and preferences.
+- **Performance Optimization**: Fine-tune server-side rendering and client-side interactions to optimize performance and responsiveness.
+- **Accessibility Audits**: Conduct thorough accessibility audits and user testing to identify and address any remaining barriers or usability issues.
 
 ---
 
