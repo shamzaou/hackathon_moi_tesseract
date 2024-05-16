@@ -116,7 +116,6 @@ Tailwind CSS offers a utility-first approach to styling, allowing us to rapidly 
 
 Given additional time and resources, here are areas we would focus on to further enhance Tesseract:
 
-- **Multilingual Support**: Expand language capabilities to cater to a broader audience, ensuring inclusivity for diverse communities.
 - **Personalization**: Implement user profiles and preferences to tailor the experience based on individual needs and preferences.
 - **Performance Optimization**: Fine-tune server-side rendering and client-side interactions to optimize performance and responsiveness.
 - **Accessibility Audits**: Conduct thorough accessibility audits and user testing to identify and address any remaining barriers or usability issues.
